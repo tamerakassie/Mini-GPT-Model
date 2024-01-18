@@ -1,7 +1,7 @@
 ##Mini-GPT
 
-his repository is a test GPT model of Andrej Karpathy's nanoGPT. 
+This repository is a test GPT model of Andrej Karpathy's nanoGPT. 
 
 
 #Dataset
-\\ Tiny Shakespeare
+- Tiny Shakespeare
