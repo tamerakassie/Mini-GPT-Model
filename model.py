@@ -16,7 +16,7 @@ n_layer = 6 # number of layers for the deep NN
 p = 0.1
 d_model = 8
 n_head = 4
-
+# 
 class LayerNorm(nn.Module):
     """
     LayerNorm Class:
